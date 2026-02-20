@@ -1,5 +1,6 @@
 # RoomFinder Website 🏠
 
+<<<<<<< HEAD
 A premium, modern UI/UX design for a room-finding application, specifically tailored for the Pimpri-Chinchwad and Pune regions. This platform connects property owners with seekers through a seamless, responsive interface.
 
 ## 🚀 Live Deployment
@@ -57,3 +58,7 @@ Check out the live application here: **[Live Demo](https://roomfinder-website-f.
 ---
 
 *Built with ❤️ for a better room-finding experience.*
+=======
+  # RoomFinder Website 
+  
+>>>>>>> 3213acf4da3c36ced589afcac2c72284f0736461
