@@ -1,64 +1,105 @@
-# RoomFinder Website 🏠
+<div align="center">
 
-<<<<<<< HEAD
-A premium, modern UI/UX design for a room-finding application, specifically tailored for the Pimpri-Chinchwad and Pune regions. This platform connects property owners with seekers through a seamless, responsive interface.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:58A6FF&height=160&section=header&text=RoomFinder&fontSize=42&fontColor=58A6FF&fontAlignY=45&animation=fadeIn"/>
 
-## 🚀 Live Deployment
-Check out the live application here: **[Live Demo](https://roomfinder-website-f.vercel.app)**  
-*(Deployment managed via Vercel)*
+# 🏠 RoomFinder — Room & PG Finder Platform
 
-## ✨ Features
+**A premium, modern, and fully responsive room-finding web application for the Pimpri-Chinchwad and Pune regions — connecting property owners with seekers through a seamless, location-based interface.**
 
-- **Dynamic Search**: Filter rooms based on location, budget, and room types.
-- **Property Details**: High-quality imagery, interactive maps, and detailed utility information.
-- **User Dashboard**: Manage profiles, view favorite properties, and track inquiries.
-- **Owner Dashboard**: List properties, manage bookings, and communicate with potential tenants.
-- **Real-time Messaging**: Integrated messaging system for direct communication.
-- **Secure Authentication**: Built-in login and signup flows for both users and owners.
-- **Responsive Design**: Fully optimized for mobile, tablet, and desktop experiences.
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
-## 🛠️ Tech Stack
+🔗 **[Live Demo](https://roomfinder-website.vercel.app)**
 
-- **Frontend**: [React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/)
-- **Build Tool**: [Vite](https://vitejs.dev/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Routing**: [React Router](https://reactrouter.com/)
-- **UI Components**: Radix UI, Lucide Icons
-- **Animations**: Framer Motion
-
-## 📦 Getting Started
-
-### Prerequisites
-
-- Node.js (v18 or higher)
-- npm or pnpm
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/JSR2406/Roomfinder-Website-f.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd Roomfinder-Website-f
-   ```
-
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-4. Start the development server:
-   ```bash
-   npm run dev
-   ```
+</div>
 
 ---
 
-*Built with ❤️ for a better room-finding experience.*
-=======
-  # RoomFinder Website 
-  
->>>>>>> 3213acf4da3c36ced589afcac2c72284f0736461
+## 🧠 Overview
+
+**RoomFinder** is a location-aware web platform built specifically for students and young professionals in the Pimpri-Chinchwad and Pune area. It connects property owners listing PGs, single rooms, and flats with seekers looking for accommodation — with a clean, modern UI and smart filters.
+
+---
+
+## ✨ Features
+
+| Feature | Description |
+|---------|-------------|
+| 📍 **Location-Based Search** | Filter rooms by area, locality, and distance |
+| 🏷️ **Smart Filters** | Filter by budget, room type (PG/flat/single), amenities |
+| 📸 **Photo Listings** | High-quality property photos with gallery view |
+| 📞 **Contact Owner** | Direct connect with property owners or landlords |
+| 📊 **Price Comparison** | Compare multiple listings side-by-side |
+| 📱 **Responsive Design** | Optimized for mobile-first, works on all screen sizes |
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|-------|------------|
+| **Framework** | React + TypeScript |
+| **Build Tool** | Vite |
+| **Styling** | Tailwind CSS + PostCSS |
+| **Routing** | React Router |
+| **Deployment** | Vercel |
+
+---
+
+## 📁 Project Structure
+
+```
+Roomfinder-Website/
+├── src/
+│   ├── components/         # Reusable UI components
+│   ├── pages/              # Route pages
+│   ├── assets/             # Images, icons
+│   └── main.tsx            # App entry point
+├── guidelines/             # Design & contribution guidelines
+├── index.html
+├── vite.config.ts
+└── package.json
+```
+
+---
+
+## 🚀 Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/JSR2406/Roomfinder-Website.git
+cd Roomfinder-Website
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173)
+
+---
+
+## 🏙️ Target Regions
+
+- Pimpri-Chinchwad (PCMC)
+- Pune City
+- Akurdi, Nigdi, Wakad, Hinjewadi
+- Kothrud, Baner, Aundh
+
+---
+
+## 👨‍💻 Author
+
+**Janmejay Singh Rathore**
+- 🐙 GitHub: [@JSR2406](https://github.com/JSR2406)
+- 💼 LinkedIn: [janmejay-singh-rathore](https://linkedin.com/in/janmejay-singh-rathore)
+- 📧 Email: janmejaysingh2406@gmail.com
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=100&section=footer"/>
+</div>
